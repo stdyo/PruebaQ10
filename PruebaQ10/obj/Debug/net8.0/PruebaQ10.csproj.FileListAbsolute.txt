@@ -1,0 +1,14 @@
+C:\Users\Shadow\Documents\GitHub\Prueba-tecnica-Q10\PruebaQ10\PruebaQ10\bin\Debug\net8.0\PruebaQ10.exe
+C:\Users\Shadow\Documents\GitHub\Prueba-tecnica-Q10\PruebaQ10\PruebaQ10\bin\Debug\net8.0\PruebaQ10.deps.json
+C:\Users\Shadow\Documents\GitHub\Prueba-tecnica-Q10\PruebaQ10\PruebaQ10\bin\Debug\net8.0\PruebaQ10.runtimeconfig.json
+C:\Users\Shadow\Documents\GitHub\Prueba-tecnica-Q10\PruebaQ10\PruebaQ10\bin\Debug\net8.0\PruebaQ10.dll
+C:\Users\Shadow\Documents\GitHub\Prueba-tecnica-Q10\PruebaQ10\PruebaQ10\bin\Debug\net8.0\PruebaQ10.pdb
+C:\Users\Shadow\Documents\GitHub\Prueba-tecnica-Q10\PruebaQ10\PruebaQ10\obj\Debug\net8.0\PruebaQ10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\Documents\GitHub\Prueba-tecnica-Q10\PruebaQ10\PruebaQ10\obj\Debug\net8.0\PruebaQ10.AssemblyInfoInputs.cache
+C:\Users\Shadow\Documents\GitHub\Prueba-tecnica-Q10\PruebaQ10\PruebaQ10\obj\Debug\net8.0\PruebaQ10.AssemblyInfo.cs
+C:\Users\Shadow\Documents\GitHub\Prueba-tecnica-Q10\PruebaQ10\PruebaQ10\obj\Debug\net8.0\PruebaQ10.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\Documents\GitHub\Prueba-tecnica-Q10\PruebaQ10\PruebaQ10\obj\Debug\net8.0\PruebaQ10.dll
+C:\Users\Shadow\Documents\GitHub\Prueba-tecnica-Q10\PruebaQ10\PruebaQ10\obj\Debug\net8.0\refint\PruebaQ10.dll
+C:\Users\Shadow\Documents\GitHub\Prueba-tecnica-Q10\PruebaQ10\PruebaQ10\obj\Debug\net8.0\PruebaQ10.pdb
+C:\Users\Shadow\Documents\GitHub\Prueba-tecnica-Q10\PruebaQ10\PruebaQ10\obj\Debug\net8.0\PruebaQ10.genruntimeconfig.cache
+C:\Users\Shadow\Documents\GitHub\Prueba-tecnica-Q10\PruebaQ10\PruebaQ10\obj\Debug\net8.0\ref\PruebaQ10.dll
